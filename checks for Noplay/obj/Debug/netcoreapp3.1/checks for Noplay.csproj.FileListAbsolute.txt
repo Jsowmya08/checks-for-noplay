@@ -1,0 +1,5 @@
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\checks for Noplay\checks for Noplay\obj\Debug\netcoreapp3.1\checks for Noplay.csproj.AssemblyReference.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\checks for Noplay\checks for Noplay\obj\Debug\netcoreapp3.1\checks for Noplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\checks for Noplay\checks for Noplay\obj\Debug\netcoreapp3.1\checks for Noplay.AssemblyInfoInputs.cache
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\checks for Noplay\checks for Noplay\obj\Debug\netcoreapp3.1\checks for Noplay.AssemblyInfo.cs
+C:\Users\JANGAM SOWMYA\OneDrive\Desktop\visualstudio\checks for Noplay\checks for Noplay\obj\Debug\netcoreapp3.1\checks for Noplay.csproj.CoreCompileInputs.cache
